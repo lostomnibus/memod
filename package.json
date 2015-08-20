@@ -1,0 +1,17 @@
+{
+  "name": "memod",
+  "version": "1.0.0",
+  "description": "Modernization Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "readme": "readme.md",
+  "repository": "https://github.com/lostomnibus/memod.git",
+  "dependencies": {
+    "handlebars": "^3.0.3",
+    "node-uuid": "^1.4.3"
+  }
+}
